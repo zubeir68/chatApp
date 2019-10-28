@@ -1,0 +1,19 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Simple chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubeir68/chatApp.git"
+  },
+  "author": "Zubeir Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubeir68/chatApp/issues"
+  },
+  "homepage": "https://github.com/zubeir68/chatApp#readme"
+}
