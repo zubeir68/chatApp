@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/zubeir68/chatApp/issues"
   },
-  "homepage": "https://github.com/zubeir68/chatApp#readme"
+  "homepage": "https://github.com/zubeir68/chatApp#readme",
+  "dependencies": {
+    "bluebird": "^3.7.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7",
+    "socket.io": "^2.3.0"
+  }
 }
